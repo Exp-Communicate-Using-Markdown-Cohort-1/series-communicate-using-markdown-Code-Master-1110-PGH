@@ -5,3 +5,6 @@ It is just the beginning towards familiarizing with the markdown language for us
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [X] Started GitHub 
+- [X] Working with markdown...
+- [ ] Introducing myself to the world
